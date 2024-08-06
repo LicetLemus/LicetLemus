@@ -1,6 +1,4 @@
 # 👩‍💻 About Me
-
-## 📛 Nombre Completo
 ¡Hola! Soy **Licet Lemus Quintero**, una apasionada estudiante de desarrollo web.
 
 ## 💖 Pasión por el Desarrollo Web
