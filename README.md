@@ -1,5 +1,5 @@
 # 👩‍💻 About Me
-¡Hola! Soy **Licet Lemus Quintero**, una apasionada estudiante de desarrollo web.
+¡Hola! Soy **Licet Lemus Quintero**, una apasionada por el desarrollo web.
 
 ## 💖 Pasión por el Desarrollo Web
 Mi amor por el desarrollo web se refleja en cada línea de código que escribo. Estoy entusiasmada por crear aplicaciones atractivas y funcionales que no solo impresionen visualmente, sino que también ofrezcan una experiencia de usuario excepcional.
