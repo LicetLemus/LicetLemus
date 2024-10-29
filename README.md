@@ -1,27 +1,24 @@
-# 👩‍💻 About Me
-¡Hola! Soy **Licet Lemus Quintero**, una apasionada por el desarrollo web.
-
-## 💖 Pasión por el Desarrollo Web
-Mi amor por el desarrollo web se refleja en cada línea de código que escribo. Estoy entusiasmada por crear aplicaciones atractivas y funcionales que no solo impresionen visualmente, sino que también ofrezcan una experiencia de usuario excepcional.
-
-## 🎯 Objetivo a Mediano Plazo
-Mi objetivo a mediano plazo es convertirme en una **desarrolladora full stack**, ampliando mis habilidades y conocimientos para abarcar tanto el frontend como el backend del desarrollo web. ¡Estoy ansiosa por enfrentar nuevos desafíos y aprender constantemente!
-
-## 🔧 Habilidades Actuales
-Actualmente, cuento con un sólido dominio de **HTML**, **CSS** y **JavaScript** para desarrollar interfaces intuitivas y funcionales. Además, estoy expandiendo mis habilidades al explorar **Python**, lo que me permite abordar desafíos más complejos y mantenerme al día con las últimas tendencias y tecnologías en el desarrollo web.
-
-## 🤝 Interés en Proyectos Colaborativos
-Disfruto aprendiendo y colaborando en proyectos en equipo. Creo firmemente en el poder del trabajo colaborativo y en la importancia de compartir conocimientos para crecer juntos.
-
-## 🚀 Proyecto Actual
-
-Actualmente, estoy trabajando en **fleet-management-api**, un proyecto emocionante donde se está desarrollando una **API REST** para gestionar y consultar las ubicaciones de casi **10,000 taxis** en Beijing, China. El objetivo es crear una solución robusta que permita acceder a la información de los vehículos de manera eficiente. Se espera explorar y aplicar nuevas técnicas para el almacenamiento y la consulta de datos, garantizando una experiencia de usuario óptima.
-
-## 🌟 Valores en los Proyectos
-Valoro profundamente la **usabilidad y la experiencia del usuario** en todos mis proyectos. Mi objetivo es siempre crear interfaces intuitivas y accesibles que faciliten la interacción y aporten valor real a los usuarios.
+👋 **¡Hola! Soy Licet Lemus Quintero**  
+Una desarrolladora web apasionada y en constante evolución.
 
 ---
 
-✨ ¡Bienvenidos a mi rincón de conocimiento! Aquí es donde comparto mi viaje de aprendizaje, mis proyectos y mi evolución como desarrolladora web. ¡Gracias por visitar mi perfil y acompañarme en esta apasionante travesía!
+💖 **Pasión por el Desarrollo Web**  
+Cada línea de código es una oportunidad para crear aplicaciones visualmente atractivas y altamente funcionales, enfocadas en ofrecer experiencias de usuario excepcionales. Mi motivación es construir soluciones que dejen una impresión positiva y duradera.
 
+🎯 **Objetivo a Mediano Plazo**  
+Mi meta es convertirme en desarrolladora full stack, dominando tanto el frontend como el backend. Este camino representa un reto emocionante, y estoy decidida a seguir aprendiendo y mejorando cada día para enfrentar cualquier desafío.
 
+🔧 **Habilidades y Tecnologías**  
+Cuento con una sólida base en HTML, CSS y JavaScript, así como experiencia en tecnologías como **React** y **Tailwind CSS** para desarrollar interfaces intuitivas y prácticas. Además, tengo conocimientos en **Python**, **Flask**, **JWT** y **SQL** en aplicaciones web. Recientemente, he estado explorando la nube con **Amazon** y realicé un despliegue utilizando **Amazon EC2**. Estoy comprometida a mantenerme al día con las últimas tendencias en tecnología y desarrollo web.
+
+🤝 **Interés en Proyectos Colaborativos**  
+Creo firmemente en el valor del trabajo en equipo y en la importancia de compartir conocimientos. Disfruto de proyectos colaborativos donde puedo aprender de otros y contribuir al éxito conjunto.
+
+🌟 **Valores en los Proyectos**  
+La usabilidad y la experiencia del usuario son pilares en mi trabajo. Mi objetivo es diseñar interfaces accesibles y agradables, aportando valor real a cada proyecto en el que participo.
+
+---
+
+✨ **Bienvenidos a mi Rincón de Conocimiento**  
+Aquí comparto mi viaje, mis aprendizajes y proyectos en desarrollo web. Gracias por visitar mi perfil y acompañarme en esta apasionante travesía de crecimiento y descubrimiento.
